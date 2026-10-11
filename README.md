@@ -2,7 +2,7 @@
 
 Stop guessing what's broken in your marketing. FunnelPulse analyzes 18 metrics across 5 funnel stages and tells you exactly what to fix in plain English.
 
-https://claudeandcaffeine.github.io/funnelpulse/
+https://claudeandcaffeine.github.io/FunnelPulse/
 
 🚀 Why FunnelPulse?
 Most dashboards just show you numbers. FunnelPulse interprets the relationships between them. It catches issues like:
